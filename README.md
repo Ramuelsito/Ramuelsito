@@ -88,7 +88,7 @@ A Python project for visualizing solutions to scheduling and assignment problems
 - Worked on chart rendering, HTML dashboard generation and project refactoring.
 - Applied software design principles such as separation of responsibilities, extensibility and testability.
 
-[View repository](https://github.com/Ramuelsito/ShcedVisualizer)
+[View repository](https://github.com/Ramuelsito/SchedVisualizer#)
 
 ---
 
