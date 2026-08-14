@@ -10,6 +10,7 @@ Alongside my professional work, I collaborate on research related to **combinato
 
 If you'd like to know more about me, feel free to visit my portfolio:
 🌐 [raul-alvarez-portfolio.netlify.app](https://raul-alvarez-portfolio.netlify.app/)
+
 ---
 
 ## What I work on
