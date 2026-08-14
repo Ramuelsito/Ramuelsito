@@ -8,6 +8,9 @@ I currently work in a technical role within an HR department, acting as the main
 
 Alongside my professional work, I collaborate on research related to **combinatorial optimization**, **metaheuristics**, and **data-driven analysis of solution spaces**, with a special focus on scheduling problems.
 
+If you'd like to know more about me, feel free to visit my portfolio:
+
+🌐 [raul-alvarez-portfolio.netlify.app](https://raul-alvarez-portfolio.netlify.app/)
 ---
 
 ## What I work on
